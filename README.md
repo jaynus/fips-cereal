@@ -1,4 +1,4 @@
-fips-glm
+fips-cereal
 ========
 
-Wraps around GLM and adds a fips.yml (see https://github.com/floooh/fips) so that GLM can be used as a dependency in a fips project.
+Wraps around Cereal and adds a fips.yml (see https://github.com/floooh/fips) so that Cereal can be used as a dependency in a fips project.

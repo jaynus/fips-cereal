@@ -1,0 +1,8 @@
+[submodule "USCiLab"]
+	path = USCiLab
+	url = https://github.com/USCiLab/cereal.git
+	branch = master
+[submodule "cereal"]
+	path = cereal
+	url = https://github.com/USCiLab/cereal.git
+	branch = master
